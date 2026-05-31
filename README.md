@@ -6,12 +6,12 @@
 [![youtube](假装有链接)](假装有链接)
 
 [![modern cpp](假装有链接)
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+![](https://img.shields.io/badge/Adomin-yellow) 
+![](https://img.shields.io/badge/阴湿鼠鼠人-red) 
+![](https://img.shields.io/badge/成分复杂(乐器游戏健身coding)-red)
 
 </div>
 
-![PIC](image/头像.jpg)
+![PIC](Ado_post.jpg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+[github-sub-title:img]: idle_ado.gif
