@@ -5,7 +5,8 @@
 
 ![](https://img.shields.io/badge/Adomin-yellow) 
 ![](https://img.shields.io/badge/阴湿鼠鼠人-red) 
-![](https://img.shields.io/badge/成分复杂(乐器游戏健身coding)-red)
+![](https://img.shields.io/badge/乐器游戏健身coding)-green) 
+![](https://img.shields.io/badge/成分复杂-blue)
 
 </div>
 <div align="center">
